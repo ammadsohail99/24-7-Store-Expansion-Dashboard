@@ -3,6 +3,8 @@
 ## Overview
 This Power BI dashboard is designed to assist 24Seven, a rapidly expanding convenience store chain, in identifying the optimal locations for new stores across Canada. By integrating diverse datasets including sales, customer demographics, traffic patterns, and regional climate data, the dashboard calculates an "Expansion Score" to guide strategic expansion decisions. For further details, refer to ![Report](./24_7_Dashboard_Overview_and_Insights_Report.pdf)
 
+For Dashboard Snippets refer to the ![Snippets](./24_7_Dashboard_Snippets.pdf)
+
 ## Features
 - **Expansion Score Calculation:** A unique metric that evaluates potential store locations based on sales, market saturation, and demographics.
 - **Sales Trends & Forecasts:** Visualizes historical sales data and predicts future trends to identify growth opportunities.
